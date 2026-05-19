@@ -10,5 +10,5 @@ bubblegum_price="$1.50"
 chocolate_price="$2.00"
 pasta_price="$5.40"
 print(f"We have {candy1} for {bubblegum_price} in the {category1}")
-print(f"We have {candy2} for {chocolate_price} in th {category1}
-print(f"We have {dry_goods
+print(f"We have {candy2} for {chocolate_price} in th {category1}")
+print(f"We have {dry_goods} for {chocolate_price} in the {category2}")
