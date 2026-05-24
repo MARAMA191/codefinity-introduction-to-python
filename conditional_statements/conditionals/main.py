@@ -1,5 +1,5 @@
 # Input variables
-product_type = 'Veges'
+product_type = 'Vegetables'
 day_of_week = 'Monday'
 if product_type == "Fruits":
 	if day_of_week=="Monday":
@@ -12,4 +12,5 @@ elif product_type == "Dairy":
 		print("20% discount on Dairy today!")
 elif product_type == "Other":
 		print("No discount available.")
-else: print("No special discounts today.")
+else:
+		print("No special discounts today.")
